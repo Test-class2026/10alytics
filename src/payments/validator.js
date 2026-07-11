@@ -1,0 +1,1 @@
+Transaction validation: checks amount, currency, and merchant status
